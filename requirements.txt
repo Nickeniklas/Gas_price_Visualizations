@@ -1,0 +1,9 @@
+statsmodels
+pandas
+seaborn
+matplotlib
+numpy
+pmdarima 
+ipykernel
+notebook
+jupyter
